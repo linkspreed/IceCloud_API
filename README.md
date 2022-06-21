@@ -26,7 +26,7 @@ In the top left corner you will see **Config** dropdown menu, click on it and se
 
 We are providing you 1 backend which you can set and play via Insomnia HTTP clients:
 
-#### ShareNode:
+#### IceCloud:
 ```
 https://icecloud.cf
 ```
